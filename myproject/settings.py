@@ -126,5 +126,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # settings.py
 
-PAYPAL_CLIENT_ID = 'AeD-swJYTE93TSbLYmCn665lYC0Cd0mBCIEW9mE4TJyQpeTi5njQ4SuBDapP1KDHoapFl1D2EoKmQYhH'
-PAYPAL_SECRET = 'EE99_pUfDkAiO7MrO5w02BKPcgVBOnXWkRtWEpzMSArxOQh20Ft_0pZW9EutUZN5y4EB8KsXMYTD6PKx' 
+PAYPAL_CLIENT_ID = 'your_cilent_id'# from your paypal sandbox account
+PAYPAL_SECRET = 'your_secret_key'# from your paypal sandbox account 
